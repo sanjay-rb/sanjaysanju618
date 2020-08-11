@@ -18,7 +18,6 @@
 [<img src="https://img.icons8.com/fluent/26/000000/instagram-new.png"/>][instagram]
 [<img src="https://img.icons8.com/fluent/26/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/ios-glyphs/26/000000/email.png"/>][mailto]
-[<img src="https://img.icons8.com/android/26/000000/phone-disconnected.png"/>][callme]
 
 ---
 
@@ -47,4 +46,3 @@
 [github]: https://github.com/sanjaysanju618/
 [facebook]: https://www.facebook.com/sanjay.rockdj/
 [mailto]: mailto:sanjaybabu618@gmail.com
-[callme]: tel:+919442212906
