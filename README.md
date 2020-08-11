@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Be came to skilled Flutter Developer.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
-<br />
-
 ---
 
 ### Connect with me:
@@ -20,6 +18,7 @@
 [<img src="https://img.icons8.com/fluent/26/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/ios-glyphs/26/000000/email.png"/>][mailto]
 [<img src="https://img.icons8.com/material-rounded/26/000000/call-male.png"/>][callme]
+
 ---
 
 ### Languages and Tools:
@@ -51,6 +50,8 @@
 ---
 
 [![sanjaysanju618's github stats](https://github-readme-stats.vercel.app/api?username=sanjaysanju618&show_icons=true)](https://github.com/sanjaysanju618?tab=repositories)
+
+---
 
 ### Favorite Repos:
 
