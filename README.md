@@ -2,10 +2,11 @@
 
 ## I'm an Computer Science Engineer, Freelancer, Self Learner!
 
-- 🔭 I’m currently working on Multiple Project as a Freelancer.
+- 🔭 I’m currently working on multiple projects as a Freelancer.
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 - 👯 I’m looking to collaborate on Tata Consulting Services aka [TCS](https://www.tcs.com/)
 - 🥅 2020 Goals: Be came to skilled Flutter Developer.
+- 😃 Hobby: Learning new thing by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
 ---
@@ -17,7 +18,7 @@
 [<img src="https://img.icons8.com/fluent/26/000000/instagram-new.png"/>][instagram]
 [<img src="https://img.icons8.com/fluent/26/000000/facebook-new.png"/>][facebook]
 [<img src="https://img.icons8.com/ios-glyphs/26/000000/email.png"/>][mailto]
-[<img src="https://img.icons8.com/material-rounded/26/000000/call-male.png"/>][callme]
+[<img src="https://img.icons8.com/android/26/000000/phone-disconnected.png"/>][callme]
 
 ---
 
