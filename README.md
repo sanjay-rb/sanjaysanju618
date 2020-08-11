@@ -23,29 +23,7 @@
 
 ### Languages and Tools:
 
-<img title='Flutter' src="https://img.icons8.com/color/26/000000/flutter.png"/>
-
-<img title='VS Code' src="https://img.icons8.com/fluent/26/000000/visual-studio-code-2019.png"/>
-
-<img title='Firebase' src="https://img.icons8.com/color/26/000000/firebase.png"/>
-
-<img title='Android' src="https://img.icons8.com/fluent/26/000000/android-os.png"/>
-
-<img title='Java' src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo.png"/>
-
-<img title='Python' src="https://img.icons8.com/color/26/000000/python.png"/>
-
-<img title='MongoDB' src="https://img.icons8.com/color/26/000000/mongodb.png"/>
-
-<img title='C Programming' src="https://img.icons8.com/color/26/000000/c-programming.png"/>
-
-<img title='C++ Programming' src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/>
-
-<img title='HTML' src="https://img.icons8.com/color/26/000000/html-5.png"/>
-
-<img title='CSS' src="https://img.icons8.com/color/26/000000/css3.png"/>
-
-<img title='JS' src="https://img.icons8.com/color/26/000000/javascript.png"/>
+<img title='Flutter' src="https://img.icons8.com/color/26/000000/flutter.png"/> <img title='VS Code' src="https://img.icons8.com/fluent/26/000000/visual-studio-code-2019.png"/> <img title='Firebase' src="https://img.icons8.com/color/26/000000/firebase.png"/> <img title='Android' src="https://img.icons8.com/fluent/26/000000/android-os.png"/> <img title='Java' src="https://img.icons8.com/color/26/000000/java-coffee-cup-logo.png"/> <img title='Python' src="https://img.icons8.com/color/26/000000/python.png"/> <img title='MongoDB' src="https://img.icons8.com/color/26/000000/mongodb.png"/> <img title='C Programming' src="https://img.icons8.com/color/26/000000/c-programming.png"/> <img title='C++ Programming' src="https://img.icons8.com/color/26/000000/c-plus-plus-logo.png"/> <img title='HTML' src="https://img.icons8.com/color/26/000000/html-5.png"/> <img title='CSS' src="https://img.icons8.com/color/26/000000/css3.png"/> <img title='JS' src="https://img.icons8.com/color/26/000000/javascript.png"/>
 
 ---
 
