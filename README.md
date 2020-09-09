@@ -1,6 +1,6 @@
 ### Hi there, I'm Sanjay R B 👋
 
-## I'm an Computer Science Engineer, Freelancer, Self Learner!
+## I'm a Computer Science Engineer, Freelancer, Self Learner!
 
 - 🔭 I’m currently working on multiple projects as a Freelancer.
 - 🌱 I’m currently learning [Flutter](https://flutter.dev/)
