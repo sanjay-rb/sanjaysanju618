@@ -1,11 +1,10 @@
 ### Hi there, I'm Sanjay R B 👋
 
-## I'm a Computer Science Engineer, Freelancer, Self Learner!
+## I'm Assistant Software Engineer, Computer Science Engineer, Freelancer, Self Learner!
 
-- 🔭 I’m currently working on multiple projects as a Freelancer.
-- 🌱 I’m currently learning [Flutter](https://flutter.dev/)
-- 👯 I’m looking to collaborate on Tata Consulting Services aka [TCS](https://www.tcs.com/)
-- 🥅 2020 Goals: Be came to skilled Flutter Developer.
+- 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
+- 🌱 I’m currently learning [Jenkins](https://www.jenkins.io/)
+- 🥅 2021 Goals: To deploy many application in Google PLay Store.
 - 😃 Hobby: Learning new thing by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
