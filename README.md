@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
 - 🌱 I’m currently learning [Jenkins](https://www.jenkins.io/)
-- 🥅 2021 Goals: To deploy many application in Google PLay Store.
+- 🥅 2021 Goals: To deploy many application in Google Play Store.
 - 😃 Hobby: Learning new thing by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
