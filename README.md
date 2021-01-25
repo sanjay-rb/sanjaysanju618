@@ -34,7 +34,7 @@
 
 [![100-Days-Of-Flutter-Widgets Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-Of-Flutter-Widgets)](https://github.com/sanjaysanju618/100-Days-Of-Flutter-Widgets)
 
-[![ShowCase Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=ShowCase)](https://github.com/sanjaysanju618/ShowCase)
+[![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-of-Code)](https://github.com/sanjaysanju618/100-Days-of-Code)
 
 [![100-Days-of-Machine-Learning Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-of-Machine-Learning)](https://github.com/sanjaysanju618/100-Days-of-Machine-Learning)
 
