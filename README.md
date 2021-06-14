@@ -32,6 +32,8 @@
 
 ### Favorite Repos:
 
+[![Natural Disaster Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=Natural_Disaster)](https://github.com/sanjaysanju618/Natural_Disaster)
+
 [![100-Days-Of-Flutter-Widgets Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-Of-Flutter-Widgets)](https://github.com/sanjaysanju618/100-Days-Of-Flutter-Widgets)
 
 [![100-Days-of-Code Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjaysanju618&repo=100-Days-of-Code)](https://github.com/sanjaysanju618/100-Days-of-Code)
