@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on Tata Consulting Services aka [TCS](https://www.tcs.com/).
 - 🌱 I’m currently learning [Jenkins](https://www.jenkins.io/)
-- 🥅 2021 Goals: To deploy many application in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (2 / N)
-- 😃 Hobby: Learning new thing by taking 100 Days Challenges.
+- 🥅 2021 Goals: To deploy many applications in [Google Play Store](https://play.google.com/store/apps/developer?id=Sanjay+R+B). (2 / N)
+- 😃 Hobby: Learning new things by taking 100 Days Challenges.
 - ⚡ Fun fact: I'm a percussionist in NxtGen Music Band.
 
 ---
@@ -26,7 +26,7 @@
 
 ---
 
-[![sanjaysanju618's github stats](https://github-readme-stats.vercel.app/api?username=sanjaysanju618&show_icons=true)](https://github.com/sanjaysanju618?tab=repositories)
+[![sanjaysanju618's Github stats](https://github-readme-stats.vercel.app/api?username=sanjaysanju618&show_icons=true)](https://github.com/sanjaysanju618?tab=repositories)
 
 ---
 
