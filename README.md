@@ -1,4 +1,4 @@
-### Hi there, I'm Sanjay R B 👋
+### Hi there, I'm Sanjay R B <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm Assistant Software Engineer, Computer Science Engineer, Freelancer, Self Learner!
 
