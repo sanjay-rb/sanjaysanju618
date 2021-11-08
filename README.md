@@ -39,7 +39,7 @@
 
 [twitter]: https://twitter.com/sanjayb58109784
 [instagram]: https://www.instagram.com/sanju_sanjay_618/
-[linkedin]: https://www.linkedin.com/in/sanjay-babu-4b2690148/
+[linkedin]: https://www.linkedin.com/in/sanjay-r-b-4b2690148/
 [github]: https://github.com/sanjaysanju618/
 [facebook]: https://www.facebook.com/sanjay.rockdj/
 [mailto]: mailto:sanjaybabu618@gmail.com
